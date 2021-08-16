@@ -1,0 +1,22 @@
+html { font-size: 62.5%; }
+
+body {
+    background-color: #585889;
+    color: #fdffff;
+    width: 500px;
+    margin-right: auto;
+    margin-left:  auto;
+}
+
+button {
+    padding: 5px 20px;
+    font-size: 1.5rem;
+    color: #ffffff;
+    background-color: #2ae3ff;
+    border-style: none;
+}
+
+input {
+    border-style: none;
+    height: 20px;
+}
